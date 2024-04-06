@@ -53,7 +53,6 @@ setuptools.setup(
         'packaging',
         'pyglove',
         'sentencepiece',
-        'tensorflow-text',
         # Ping to a specific version to avoid endless backtracking during
         # pip dependency resolution.
         'tfds-nightly==4.9.2.dev202308090034',
